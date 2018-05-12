@@ -1,0 +1,39 @@
+_repo: Olinda-s-Adventures--or-the-Amours-of-a-Young-Lady_37218
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Day, Robert Adams
+    birthdate: 1924
+    gutenberg_agent_id: '38710'
+    url: http://www.gutenberg.org/2009/agents/38710
+covers:
+- cover_type: archival
+  image_path: 37218-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Trotter, Catharine
+    aliases:
+    - Cockburn, Catharine
+    - Trotter, Mrs. (Catharine)
+    birthdate: 1679
+    deathdate: 1749
+    gutenberg_agent_id: '38725'
+    url: http://www.gutenberg.org/2009/agents/38725
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Trotter_Cockburn
+description: ''
+gutenberg_issued: '2011-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37218'
+  lccn: '71007558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Epistolary fiction'
+title: 'Olinda''s Adventures: or the Amours of a Young Lady'
+url: http://www.gutenberg.org/ebooks/37218
