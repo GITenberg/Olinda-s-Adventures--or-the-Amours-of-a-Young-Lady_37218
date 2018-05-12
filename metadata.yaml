@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38725
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Trotter_Cockburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37218#Olinda-s-Adventures--or-the-Amours-of-a-Young-Lady
 gutenberg_issued: '2011-08-26'
 gutenberg_type: Text
 identifiers:
